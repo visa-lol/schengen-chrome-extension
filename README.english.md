@@ -40,5 +40,3 @@ Spread the word through various channels such as social media to increase the pr
 
 ### Donations
 Support is welcome to help with ongoing maintenance and server costs, particularly if the project adds value or aids in combatting scalpers.
-
-<img src="https://usvisa.lol/tips.png" width="250">
