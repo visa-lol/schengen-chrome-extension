@@ -1,3 +1,5 @@
+[English](README.english.md)
+
 # schengen-chrome-extension
 
 ### 使用步骤
