@@ -13,7 +13,7 @@
 ## Program Operation
 
 ### Client-side (Chrome extension):
-- Maintains online status by regularly refreshing the Personal Center page, allowing immediate slot booking when available.
+- Maintains online status by regularly refreshing the pages that won't be suspended, allowing immediate slot booking when available.
 - Receives and executes server-side commands:
   1. Retrieves slots and sends them to the server (every 10 minutes depending on online user count).
   2. Books slots and forwards confirmation to the server.
