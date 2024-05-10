@@ -8,7 +8,7 @@
 2. Visit our website at [vis.lol](https://vis.lol/) and submit a request. A token will be automatically created and sent to you via email.
 3. Enter the received token into the Chrome extension and click "Start." The program will operate automatically, no manual intervention needed.
 4. Ensure your computer remains powered on.
-5. (Optional) If concerned about CAPTCHAs like those from Cloudflare affecting your scheduling, consider installing the [nopecha Chrome extension](https://nopecha.com/chrome) to bypass these automatically.
+5. (Optional) If concerned about CAPTCHAs like those from Cloudflare affecting your scheduling, consider installing the [nopecha Chrome extension](https://nopecha.com/chrome) to bypass these automatically. (You may not really need this because it never happens to me during the test phrase, that's why I leave it optional, just in case you need something to bypass the captchas automatically)
 
 ## Program Operation
 
